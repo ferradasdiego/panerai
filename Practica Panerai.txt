@@ -1,0 +1,89 @@
+1ª PRÁCTICA ENTREGABLE 2ª EVALUACIÓN 
+DIW Y DAWES
+
+ 
+
+1-      La práctica tiene dos partes. Cada parte se evaluará para una asignatura:
+
+ 
+
+a.       DIW: Realizar una web en Bootstrap
+
+ b.       DAWES: Realizar un gestor de contenidos para la web.
+
+ 
+
+2-      Cada parte puntuará hasta un máximo de 2.5 pt para la evaluación de su asignatura.
+
+ 
+
+3-      Recordad que reviso el código, y los clones serán “penalizados”.
+
+ 
+
+PRÁCTICA DIW
+
+Tienes que realizar una web en Bootstrap, sobre la marca de relojes PANERAI en clase, y añadir algunos de sus productos/servicios, y una sección de blog o novedades.
+
+Hay una serie de contenidos mínimos:
+
+-          Slider en la página principal: Tiene que tener al menos 3 imágenes que vayan rotando o se carguen al azar. La URL de las imágenes debe estar en la BD. El menú debe ser al menos parcialmente dinámico, es decir, por ejemplo el apartado de noticias debe tener un submenú con tantas noticias como haya en la BD, el de productos igual, etc.
+
+ej: https://startbootstrap.com/template-overviews/full-slider/ 
+     https://startbootstrap.com/template-overviews/business-frontpage/ 
+
+-          Tiene que tener un bloque destacados con al menos 3 noticias o artículos de blog. También accesibles desde el menú. Su contenido se cargará de la BD. Al hacer click sobre ellas deben ir a una página donde se ampliará esa noticia o post. De nuevo los contenidos deben salir de la BD. Se pueden simular los comentarios y categorías.
+
+ej: https://startbootstrap.com/template-overviews/heroic-features/ 
+     https://startbootstrap.com/template-overviews/blog-post/
+
+ 
+
+Tiene que tener un bloque de productos, también accesibles desde el menú, de la misma forma que ya comentado para los destacados. Y páginas de producto, claro.
+En la página de producto al pulsar sobre una de las imágenes pequeñas, se carga en el espacio de la grande.
+
+ej: https://startbootstrap.com/template-overviews/3-col-portfolio 
+     https://blackrockdigital.github.io/startbootstrap-portfolio-item/
+
+ 
+
+-         Además, debe tener final de contacto, con datos ficticios de contacto, algún mapa indicando la ubicación etc.
+Ej: https://startbootstrap.com/template-overviews/small-business/ 
+
+ 
+
+PRÁCTICA DAWES
+
+Debéis desarrollar el administrador de contenido para los siguientes elementos:
+
+-          Imágenes de la página principal
+
+o   URL de la imagen
+
+ 
+
+-          Novedades/posts:
+
+o   Título
+
+o   Autor
+
+o   Fecha
+
+o   Imagen
+
+o   Texto (HTML)
+
+NOTA: Ignorad buscador, comentarios, y categorías.
+
+-          Productos:
+
+o   Nombre
+
+o   Descripción
+
+o   Lista de detalles
+
+o   4 imágenes (al menos).
+
+Es decir, quiero 3 páginas desde las que podré crear e introducir un nuevo producto en la BD, modificarlo, o eliminarlo. Lo mismo con las novedades o posts, y lo mismo con las imágenes de la página principal.
